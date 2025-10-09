@@ -1,0 +1,7 @@
+Projektünk célja, hogy lehetővé tegye az autószervizelés gyors és zökkenőmentes folyamatát. Weboldalon lehet időpontot foglalni különböző szervizekre, műszakira, stb.... Az admin felületet asztali alkalmazásban lehet elérni, ahol elfogadják az időpontkéréseket, és kezelik az ügyfelek és autóik különböző adatait.  Az alkalmazás biztosítani fogja, hogy az időpontok ne ütközzenek. A weboldalon értesíteni fogják az ügyfeleket az időpontokról, a szervizek folyamatáról, és hogy mikor veheti át autóját.
+
+
+
+
+
+krisztsön dior
