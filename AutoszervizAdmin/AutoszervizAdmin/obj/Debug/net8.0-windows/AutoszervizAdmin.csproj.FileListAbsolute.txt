@@ -1,0 +1,16 @@
+C:\Users\User\Desktop\AutoszervizAdmin\AutoszervizAdmin\obj\Debug\net8.0-windows\AutoszervizAdmin.Idopont.resources
+C:\Users\User\Desktop\AutoszervizAdmin\AutoszervizAdmin\obj\Debug\net8.0-windows\AutoszervizAdmin.csproj.GenerateResource.cache
+C:\Users\User\Desktop\AutoszervizAdmin\AutoszervizAdmin\obj\Debug\net8.0-windows\AutoszervizAdmin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\AutoszervizAdmin\AutoszervizAdmin\obj\Debug\net8.0-windows\AutoszervizAdmin.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\AutoszervizAdmin\AutoszervizAdmin\obj\Debug\net8.0-windows\AutoszervizAdmin.AssemblyInfo.cs
+C:\Users\User\Desktop\AutoszervizAdmin\AutoszervizAdmin\obj\Debug\net8.0-windows\AutoszervizAdmin.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\AutoszervizAdmin\AutoszervizAdmin\bin\Debug\net8.0-windows\AutoszervizAdmin.exe
+C:\Users\User\Desktop\AutoszervizAdmin\AutoszervizAdmin\bin\Debug\net8.0-windows\AutoszervizAdmin.deps.json
+C:\Users\User\Desktop\AutoszervizAdmin\AutoszervizAdmin\bin\Debug\net8.0-windows\AutoszervizAdmin.runtimeconfig.json
+C:\Users\User\Desktop\AutoszervizAdmin\AutoszervizAdmin\bin\Debug\net8.0-windows\AutoszervizAdmin.dll
+C:\Users\User\Desktop\AutoszervizAdmin\AutoszervizAdmin\bin\Debug\net8.0-windows\AutoszervizAdmin.pdb
+C:\Users\User\Desktop\AutoszervizAdmin\AutoszervizAdmin\obj\Debug\net8.0-windows\AutoszervizAdmin.dll
+C:\Users\User\Desktop\AutoszervizAdmin\AutoszervizAdmin\obj\Debug\net8.0-windows\refint\AutoszervizAdmin.dll
+C:\Users\User\Desktop\AutoszervizAdmin\AutoszervizAdmin\obj\Debug\net8.0-windows\AutoszervizAdmin.pdb
+C:\Users\User\Desktop\AutoszervizAdmin\AutoszervizAdmin\obj\Debug\net8.0-windows\AutoszervizAdmin.genruntimeconfig.cache
+C:\Users\User\Desktop\AutoszervizAdmin\AutoszervizAdmin\obj\Debug\net8.0-windows\ref\AutoszervizAdmin.dll
